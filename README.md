@@ -62,6 +62,43 @@
 
 <div style="margin-left:100px">
 
-**Software Engineer** \
+**Desenvolvedor Full Stack** \
 [**Calcme**](https://www.calcme.com.br/) • Full-time \
 Linguagens & Tecnologias: `Java`, `Angular`, `Node`, `ReactJS`, `Git`, `MongoDB`
+
+</div>
+
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Fasolti" src="https://media.licdn.com/dms/image/C4D0BAQHEfyF53Swnkg/company-logo_200_200/0/1631306359349?e=2147483647&v=beta&t=Bo8d6oyUVSX8B1CpJe6wlo49ECnJDCCer3UNkTvHA2o"/>](https://www.fasolti.com.br/)
+
+<div style="margin-left:100px">
+
+**Estágio Desenvolvedor Full Stack** \
+[**Fasolti**](https://www.fasolti.com.br/) • Half-time \
+Linguagens & Tecnologias: `Java`, `Angular`, `IONIC 5`, `Git`, `PostgreSQL`
+
+</div>
+
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Mestra Informática e Tecnologia" src="https://media.licdn.com/dms/image/v2/C4E0BAQHkXmYPlxlOew/company-logo_100_100/company-logo_100_100/0/1630593705779?e=1735776000&v=beta&t=sj33KUH1DH4vkvHK-d9E61vsGv8_s9cmn5RU0j5ApR0"/>](https://mestrainfo.com.br/site/)
+
+<div style="margin-left:100px">
+
+**Estágio Desenvolvedor Full-Stack** \
+[**Mestra Informática e Tecnologia**](https://mestrainfo.com.br/site/) • Half-time \
+Linguagens & Tecnologias: `Java`, `Git`, `Gitlab`, `Oracle`, `SQL Server`
+
+</div>
+
+### Certificações
+
+[<img align="left" height="94px" width="94px" alt="ISO 270001" src="https://e7.pngegg.com/pngimages/544/585/png-clipart-27001-iso-certified-logo-iso-iec-27001-2013-information-security-management-certification-international-organization-for-standardization-agency-publisher-miscellaneous-text.png"/>](https://www.27001.pt/)
+
+<br/><br/>
+<br/><br/>
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-Joao‎_Pedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-pedro-jesus/)](https://www.linkedin.com/in/joao-pedro-jesus/)
