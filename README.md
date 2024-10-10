@@ -35,6 +35,13 @@
   <img width="12" />
 </div>
 
+**Mobile**
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" target="_blank">
+  <img width="12" />
+</div>
+
 **DevOps**
 
 <div align="left">
