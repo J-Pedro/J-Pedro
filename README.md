@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Formado em sistemas de informação, um desenvolvedor Java / Angular em constante aprendizado.</p>
+<p align="left">Formado em Sistemas de Informação, atuo desde 2020 com desenvolvimento full stack, utilizando Java e Angular. Atualmente, estou focado no aprimoramento das minhas habilidades em Java. Também estou me preparando para obter a certificação AWS.</p>
 
 ###
 
@@ -31,19 +31,27 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
   <img width="12" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank">
+  <img width="12" />
 </div>
 
 **DevOps**
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank">
+  <img width="12" />
+  <img src="https://img.shields.io/badge/DOCKER-007EC6?style=for-the-badge&logo=docker&logoColor=white" target="_blank">
   <img width="12" />
 </div>
 
 **Dados**
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank">
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank">
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank">
   <img width="12" />
 </div>
 
