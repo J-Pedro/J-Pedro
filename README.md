@@ -1,119 +1,51 @@
-<h1 align="center">Olá 👋, Eu sou João Pedro</h1>
+## João Pedro Jesus
 
-###
+**Desenvolvedor Backend Java** · Rio de Janeiro, Brasil
 
-<p align="left">Formado em Sistemas de Informação, atuo desde 2020 com desenvolvimento full stack, utilizando Java e Angular. Atualmente, estou focado no aprimoramento das minhas habilidades em Java. Também estou me preparando para obter a certificação AWS.</p>
+Desenvolvo e mantenho sistemas corporativos desde 2019, principalmente com Java e Spring Boot: APIs REST, regras de negócio complexas, integrações com sistemas externos, autenticação e autorização, persistência relacional e testes automatizados. Já trabalhei com saúde ocupacional, gestão de servidores públicos, ERP e PDV, RH e previdência privada, tanto criando funcionalidades novas quanto evoluindo e sustentando aplicações em produção.
 
-###
+*Backend Java developer since 2019, building and maintaining enterprise systems with Java and Spring Boot: REST APIs, complex business rules, third-party integrations, authentication and authorization, relational persistence and automated tests. Experience in occupational health, public-sector workforce management, ERP/POS, HR and private pension systems.*
 
-<h2 align="left">Sobre mim</h2>
+### Stack
 
-###
+- **Backend:** Java (8, 11, 17, 21), Spring Boot, Spring Web/MVC, Spring Security, Spring Data JPA/Hibernate, QueryDSL
+- **APIs e integrações:** REST, JWT, OpenAPI/Swagger, OpenFeign, integração com gateway de pagamento
+- **Bancos de dados:** Oracle, PostgreSQL, MySQL, MongoDB
+- **Testes e qualidade:** JUnit, Mockito, MockMvc, SonarQube, code review
+- **Entrega:** Git, GitLab, GitHub Actions, Jenkins, Docker, CI/CD, Oracle WebLogic
+- **Relatórios:** JasperReports, iReport
+- **Frontend (complementar):** Angular, AngularJS, TypeScript, Ionic, PrimeNG
 
-<p align="left">- 🔭 Procurando uma nova oportunidade de trabalho<br><br>- 🌱 Atualmente estou estudando Java, CI/CD e Cloud</p>
+### Projetos
 
-###
+| Projeto | Descrição |
+|---|---|
+| [**Keko Licitações**](https://github.com/J-Pedro/keko-licitacoes) | Busca editais abertos no PNCP com várias palavras-chave de uma vez, consolidando e deduplicando os resultados. Java 21, Spring Boot 4, OpenFeign com retry, ProblemDetail, testes com JUnit e Mockito, Docker e deploy no Render, com frontend Angular 21. [Demo](https://keko-licitacoes-front.onrender.com) |
+| [AlgaLog API](https://github.com/J-Pedro/mergulhoSpringRestApi) | API REST de gestão de entregas, feita no curso Mergulho Spring REST (AlgaWorks): camadas, DTOs, Bean Validation, tratamento global de erros e Flyway. |
+| [ToDo Ionic](https://github.com/J-Pedro/ToDo-ionic) | Estudo de app Ionic + Angular consumindo uma API REST. |
 
-<h2 align="left">Habilidades</h2>
+### Aprofundando agora
 
-###
+Microsserviços e arquitetura orientada a eventos · Mensageria com RabbitMQ · Observabilidade · AWS · IA aplicada ao backend
 
-**Linguagens e frameworks**
+### Experiência
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" target="_blank">
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target="_blank">
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" target="_blank">
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" target="_blank">
-  <img width="12" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
-  <img width="12" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank">
-  <img width="12" />
-</div>
+| Período | Empresa | Cargo |
+|---|---|---|
+| out/2025 – atual | Hitss Brasil | Desenvolvedor de Software Full Stack Pleno |
+| nov/2024 – jul/2025 | Montreal | Desenvolvedor Full Stack Pleno |
+| abr/2022 – out/2024 | Calcme | Desenvolvedor Full Stack Jr I → Jr III → Pleno |
+| abr/2021 – abr/2022 | FASOLTI | Estagiário em Desenvolvimento de Software |
+| out/2019 – out/2020 | Mestra Informática e Tecnologia | Estagiário em Desenvolvimento de Software |
 
-**Mobile**
+Os detalhes de cada experiência estão no [LinkedIn](https://www.linkedin.com/in/joao-pedro-jesus/).
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" target="_blank">
-  <img width="12" />
-</div>
+### Formação e certificações
 
-**DevOps**
+- Bacharelado em Sistemas de Informação, Instituto Infnet (2018–2024)
+- ISFS: Information Security Foundation based on ISO/IEC 27001
+- Inglês: proficiência profissional
 
-<div align="left">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank">
-  <img width="12" />
-  <img src="https://img.shields.io/badge/DOCKER-007EC6?style=for-the-badge&logo=docker&logoColor=white" target="_blank">
-  <img width="12" />
-</div>
+### Contato
 
-**Dados**
-
-<div align="left">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank">
-  <img width="12" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank">
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank">
-  <img width="12" />
-</div>
-
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=j-pedro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
-
-###
-
-<h2 align="left">Experiência de trabalho</h2>
-
-[<img align="left" height="94px" width="94px" alt="Calcme" src="https://cdn.sonicadigital.com.br/blusoft-inst/storage/custom-page/5860/original-660ffe9b7840b.png"/>](https://www.calcme.com.br/)
-
-<div style="margin-left:100px">
-
-**Desenvolvedor Full Stack** \
-[**Calcme**](https://www.calcme.com.br/) • Full-time \
-Linguagens & Tecnologias: `Java`, `Angular`, `Node`, `ReactJS`, `Git`, `MongoDB`
-
-</div>
-
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Fasolti" src="https://media.licdn.com/dms/image/C4D0BAQHEfyF53Swnkg/company-logo_200_200/0/1631306359349?e=2147483647&v=beta&t=Bo8d6oyUVSX8B1CpJe6wlo49ECnJDCCer3UNkTvHA2o"/>](https://www.fasolti.com.br/)
-
-<div style="margin-left:100px">
-
-**Estágio Desenvolvedor Full Stack** \
-[**Fasolti**](https://www.fasolti.com.br/) • Half-time \
-Linguagens & Tecnologias: `Java`, `Angular`, `IONIC 5`, `Git`, `PostgreSQL`
-
-</div>
-
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Mestra Informática e Tecnologia" src="https://media.licdn.com/dms/image/v2/C4E0BAQHkXmYPlxlOew/company-logo_100_100/company-logo_100_100/0/1630593705779?e=1735776000&v=beta&t=sj33KUH1DH4vkvHK-d9E61vsGv8_s9cmn5RU0j5ApR0"/>](https://mestrainfo.com.br/site/)
-
-<div style="margin-left:100px">
-
-**Estágio Desenvolvedor Full-Stack** \
-[**Mestra Informática e Tecnologia**](https://mestrainfo.com.br/site/) • Half-time \
-Linguagens & Tecnologias: `Java`, `Git`, `Gitlab`, `Oracle`, `SQL Server`
-
-</div>
-
-### Certificações
-
-[<img align="left" height="94px" width="94px" alt="ISO 270001" src="https://e7.pngegg.com/pngimages/544/585/png-clipart-27001-iso-certified-logo-iso-iec-27001-2013-information-security-management-certification-international-organization-for-standardization-agency-publisher-miscellaneous-text.png"/>](https://www.27001.pt/)
-
-<br/><br/>
-<br/><br/>
-
-## Onde me encontrar
-
-[![Linkedin](https://img.shields.io/badge/-Joao‎_Pedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-pedro-jesus/)](https://www.linkedin.com/in/joao-pedro-jesus/)
+[LinkedIn](https://www.linkedin.com/in/joao-pedro-jesus/) · [j.pedroo2000@hotmail.com](mailto:j.pedroo2000@hotmail.com)
