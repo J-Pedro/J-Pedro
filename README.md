@@ -10,9 +10,9 @@ Desenvolvo e mantenho sistemas corporativos desde 2019, principalmente com Java 
 
 - **Backend:** Java (8, 11, 17, 21), Spring Boot, Spring Web/MVC, Spring Security, Spring Data JPA/Hibernate, QueryDSL
 - **APIs e integrações:** REST, JWT, OpenAPI/Swagger, OpenFeign, integração com gateway de pagamento
-- **Bancos de dados:** Oracle, PostgreSQL, MySQL, MongoDB
+- **Bancos de dados:** Oracle, PostgreSQL, MongoDB, Flyway
 - **Testes e qualidade:** JUnit, Mockito, MockMvc, SonarQube, code review
-- **Entrega:** Git, GitLab, GitHub Actions, Jenkins, Docker, CI/CD, Oracle WebLogic
+- **Entrega:** Git, GitLab, GitLab CI, GitHub Actions, CI/CD, Oracle WebLogic
 - **Relatórios:** JasperReports, iReport
 - **Frontend (complementar):** Angular, AngularJS, TypeScript, Ionic, PrimeNG
 
@@ -24,9 +24,9 @@ Desenvolvo e mantenho sistemas corporativos desde 2019, principalmente com Java 
 | [AlgaLog API](https://github.com/J-Pedro/mergulhoSpringRestApi) | API REST de gestão de entregas, feita no curso Mergulho Spring REST (AlgaWorks): camadas, DTOs, Bean Validation, tratamento global de erros e Flyway. |
 | [ToDo Ionic](https://github.com/J-Pedro/ToDo-ionic) | Estudo de app Ionic + Angular consumindo uma API REST. |
 
-### Aprofundando agora
+### Conhecimento em
 
-Microsserviços e arquitetura orientada a eventos · Mensageria com RabbitMQ · Observabilidade · AWS · IA aplicada ao backend
+Docker · RabbitMQ e comunicação assíncrona · AWS (EC2, S3, RDS, IAM, VPC, ELB) · Arquiteturas distribuídas · Clean Architecture · Arquitetura Hexagonal · SOLID · Clean Code · Design Patterns · MySQL · Jenkins · Sentry · Grafana
 
 ### Experiência
 
