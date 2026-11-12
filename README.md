@@ -1,20 +1,27 @@
 ## João Pedro Jesus
 
-**Desenvolvedor Backend Java** · Rio de Janeiro, Brasil
+**Desenvolvedor Backend Java | Spring Boot | APIs REST | CI/CD | Cloud (AWS)** · Rio de Janeiro, Brasil
 
 Desenvolvo e mantenho sistemas corporativos desde 2019, principalmente com Java e Spring Boot: APIs REST, regras de negócio complexas, integrações com sistemas externos, autenticação e autorização, persistência relacional e testes automatizados. Já trabalhei com saúde ocupacional, gestão de servidores públicos, ERP e PDV, RH e previdência privada, tanto criando funcionalidades novas quanto evoluindo e sustentando aplicações em produção.
 
 *Backend Java developer since 2019, building and maintaining enterprise systems with Java and Spring Boot: REST APIs, complex business rules, third-party integrations, authentication and authorization, relational persistence and automated tests. Experience in occupational health, public-sector workforce management, ERP/POS, HR and private pension systems.*
 
-### Stack
+### Principais tecnologias e conhecimentos
 
-- **Backend:** Java (8, 11, 17, 21), Spring Boot, Spring Web/MVC, Spring Security, Spring Data JPA/Hibernate, QueryDSL
-- **APIs e integrações:** REST, JWT, OpenAPI/Swagger, OpenFeign, integração com gateway de pagamento
-- **Bancos de dados:** Oracle, PostgreSQL, MongoDB, Flyway
-- **Testes e qualidade:** JUnit, Mockito, MockMvc, SonarQube, code review
-- **Entrega:** Git, GitLab, GitLab CI, GitHub Actions, CI/CD, Oracle WebLogic
-- **Relatórios:** JasperReports, iReport
-- **Frontend (complementar):** Angular, AngularJS, TypeScript, Ionic, PrimeNG
+- **Backend:** Java (8, 11, 17, 21), Spring Boot, Spring Security, Spring Data JPA, JPA/Hibernate, QueryDSL, OpenFeign
+- **APIs e segurança:** APIs REST, OpenAPI/Swagger, JWT, autenticação e autorização
+- **Bancos de dados relacionais:** Oracle, PostgreSQL, MySQL e Flyway
+- **Bancos de dados não relacionais (NoSQL):** MongoDB
+- **Arquitetura de software:** Microsserviços, arquiteturas distribuídas, Clean Architecture e Arquitetura Hexagonal
+- **Boas práticas e padrões de projeto:** SOLID, Clean Code e Design Patterns
+- **Testes automatizados:** JUnit, Mockito e MockMvc
+- **Mensageria:** RabbitMQ e comunicação assíncrona
+- **Cloud e containers:** AWS (EC2, S3, RDS, IAM) e Docker
+- **DevOps e CI/CD:** Git, GitHub Actions, GitLab CI, Jenkins e SonarQube
+- **Observabilidade e monitoramento:** Sentry e Grafana
+- **Relatórios:** JasperReports
+- **Metodologias ágeis e gestão:** Scrum, Kanban e Jira
+- **Frontend e mobile:** Angular, AngularJS, TypeScript e Ionic
 
 ### Projetos
 
@@ -23,10 +30,6 @@ Desenvolvo e mantenho sistemas corporativos desde 2019, principalmente com Java 
 | [**Keko Licitações**](https://github.com/J-Pedro/keko-licitacoes) | Busca editais abertos no PNCP com várias palavras-chave de uma vez, consolidando e deduplicando os resultados. Java 21, Spring Boot 4, OpenFeign com retry, ProblemDetail, testes com JUnit e Mockito, Docker e deploy no Render, com frontend Angular 21. [Demo](https://keko-licitacoes-front.onrender.com) |
 | [AlgaLog API](https://github.com/J-Pedro/mergulhoSpringRestApi) | API REST de gestão de entregas, feita no curso Mergulho Spring REST (AlgaWorks): camadas, DTOs, Bean Validation, tratamento global de erros e Flyway. |
 | [ToDo Ionic](https://github.com/J-Pedro/ToDo-ionic) | Estudo de app Ionic + Angular consumindo uma API REST. |
-
-### Conhecimento em
-
-Docker · RabbitMQ e comunicação assíncrona · AWS (EC2, S3, RDS, IAM, VPC, ELB) · Arquiteturas distribuídas · Clean Architecture · Arquitetura Hexagonal · SOLID · Clean Code · Design Patterns · MySQL · Jenkins · Sentry · Grafana
 
 ### Experiência
 
